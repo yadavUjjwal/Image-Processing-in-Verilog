@@ -3,7 +3,7 @@
 module image_read
 #(parameter width_of_image 	= 768, 					
 height_of_image 	= 512, 						
-INFILE  = "/home/2018csb1067/Desktop/cs203/kodim23.hex", 
+INFILE  = "/home/2018csb1127/Desktop/cs203/kodim23.hex", 
 START_UP_DELAY = 100, 				
 HSYNC_DELAY = 160,					
 increment= 100,								
