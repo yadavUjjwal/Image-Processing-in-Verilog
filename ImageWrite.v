@@ -1,7 +1,7 @@
 module image_write
 #(parameter width_of_image 	= 768,							
 height_of_image = 512,							
-INFILE  = "/home/2018csb1067/Desktop/cs203/output.bmp",						
+INFILE  = "/home/2018csb1127/Desktop/cs203/output.bmp",						
 BMP_HEADER_NUM = 54)
 (input HCLK,												
 input HRESETn,											
